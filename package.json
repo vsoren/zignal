@@ -1,0 +1,22 @@
+{
+  "name": "zignal-site",
+  "version": "1.0.0",
+  "description": "Website for Zignal",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "firebase": "^4.6.2",
+    "multer": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viktor Sörensen",
+  "license": "MIT",
+  "repository": "https://github.com/vsoren/zignal.git"
+}
